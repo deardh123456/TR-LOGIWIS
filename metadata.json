@@ -1,0 +1,5 @@
+{
+  "name": "Transfer Machine Calculator",
+  "description": "A specialized calculation tool for determining the throughput and efficiency of industrial transfer machines (移栽机) based on kinematic parameters.",
+  "requestFramePermissions": []
+}
